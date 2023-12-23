@@ -1,5 +1,5 @@
 # ClipboardHelper
-<b>*ClipboardHelper*</b>  is a tool designed to increment a specific part of text from the clipboard directly. It helps breaking down the monotony of copying and pasting while manually incrementing a number.
+<b>*ClipboardHelper*</b>  is a tool designed to increment a specific part of text from the clipboard directly. It helps break down the monotony of copying and pasting while manually incrementing a number.
 
 # Downloads
 <b>*Last release*</b> [v0.3.0-alpha](https://github.com/BenSabry/SynologyMediaHelper/releases/tag/v0.3.0-alpha)<br />
