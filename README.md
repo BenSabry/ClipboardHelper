@@ -7,7 +7,7 @@
 
 # Story
 One day I was on call with my friend while he was editing some videos for his project. He asked if there was a way that would facilitate the manual copying and pasting of the same text while incrementing with every action. 
-Since some of his videos are video game guides which consists of a lot of incrementing, He suggested if there was a possible way to increment directly from the clipboard to cut the monotony of his process.
+Since some of his videos are video game guides which consists of a lot of incrementing, He wondered if there was a possible way to increment directly from the clipboard to cut the monotony of his process.
 
 I made some research and concluded that there was a way to do so quite easily (at least for me) and hence my tool was born.
 
