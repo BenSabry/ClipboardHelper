@@ -2,15 +2,14 @@
 <b>*ClipboardHelper*</b>  is a tool designed to increment a specific part of text from the clipboard directly. It helps break down the monotony of copying and pasting while manually incrementing a number.
 
 # Downloads
-<b>*Last release*</b> [v0.3.0-alpha](https://github.com/BenSabry/SynologyMediaHelper/releases/tag/v0.3.0-alpha)<br />
-<b>*All releases*</b> [releases](https://github.com/BenSabry/SynologyMediaHelper/releases)
+<b>*Last release*</b> [v0.1.0-alpha](https://github.com/BenSabry/ClipboardHelper/releases/tag/v0.1.0-alpha)<br />
+<b>*All releases*</b> [releases](https://github.com/BenSabry/ClipboardHelper/releases)
 
 # Story
-One day I was on call with my friend while he was editing some videos for his project. He asked if there was a way that would facilitate the manual copying and pasting of the same text while incrementing with every action. Since some of his videos are video game guides, which consist of a lot of incrementing, he suggested if there was a possible way to increment directly from the clipboard to cut the monotony of his process.
+One day I was on call with my friend while he was editing some videos for his project. He asked if there was a way that would facilitate the manual copying and pasting of the same text while incrementing with every action. Since some of his videos are video game guides, which consist of a lot of incrementing, he suggested if there was a possible way to increment directly from the clipboard to cut the monotony of his process.<br /><br />
 
-I did some research and concluded that there was a way to do so quite easily (at least for me), and hence my tool was born.
-
-With a mix of my tool and maybe some macros, the editing process is much faster and less monotonous.
+I did some research and concluded that there was a way to do so quite easily (at least for me), and hence my tool was born.<br />
+With a mix of my tool and maybe some macros, the editing process is much faster and less monotonous.<br />
 
 # Recommendations
 a. <b>*BACKUP*</b> your media files first (you may use <b>*Synology Snapshot Replication*</b>)<br />
