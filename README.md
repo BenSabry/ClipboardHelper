@@ -6,12 +6,11 @@
 <b>*All releases*</b> [releases](https://github.com/BenSabry/SynologyMediaHelper/releases)
 
 # Story
-One day I was on call with my friend while he was editing some videos for his project. He asked if there was a way that would facilitate the manual copying and pasting of the same text while incrementing with every action. 
-Since some of his videos are video game guides which consists of a lot of incrementing, He wondered if there was a possible way to increment directly from the clipboard to cut the monotony of his process.
+One day I was on call with my friend while he was editing some videos for his project. He asked if there was a way that would facilitate the manual copying and pasting of the same text while incrementing with every action. Since some of his videos are video game guides, which consist of a lot of incrementing, he suggested if there was a possible way to increment directly from the clipboard to cut the monotony of his process.
 
-I made some research and concluded that there was a way to do so quite easily (at least for me) and hence my tool was born.
+I did some research and concluded that there was a way to do so quite easily (at least for me), and hence my tool was born.
 
-With a mix of my tool and maybe some macros, The editing process is much faster and less monotonous.
+With a mix of my tool and maybe some macros, the editing process is much faster and less monotonous.
 
 # Recommendations
 a. <b>*BACKUP*</b> your media files first (you may use <b>*Synology Snapshot Replication*</b>)<br />
